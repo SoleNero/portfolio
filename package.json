@@ -1,0 +1,17 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "Justyna Foster",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.5"
+  },
+  "dependencies": {
+    "angular-ui-router": "1.0.0-beta.3"
+  }
+}
